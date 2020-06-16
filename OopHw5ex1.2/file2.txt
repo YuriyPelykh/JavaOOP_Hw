@@ -1,0 +1,2 @@
+Hello, lunatiki!
+Only one string here.
